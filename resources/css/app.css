@@ -1,0 +1,10 @@
+/* src/styles.css */
+@tailwind base;
+
+/* Menggunakan Century Gothic sebagai font default */
+body {
+  font-family: 'Century Gothic', sans-serif;
+}
+
+@tailwind components;
+@tailwind utilities;
